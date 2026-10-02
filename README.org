@@ -4,6 +4,6 @@ CFFI bindings for the KeyNub License Dongle, a USB license dongle: verify that a
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/AB-KeyNub/KeyNub-SDK.git           |
-| commit  | 0000000                                                    |
+| commit  | 2eb43be                                                    |
 | systems | keynub-licdongle                                          |
 |---------+------------------------------------------------------------|
