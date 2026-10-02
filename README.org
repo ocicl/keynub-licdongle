@@ -1,0 +1,9 @@
+* keynub-licdongle
+
+CFFI bindings for the KeyNub License Dongle, a USB license dongle: verify that a dongle is genuine, read and write the license records it holds, use its counters and encrypt data so that only a dongle can decrypt it.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/AB-KeyNub/KeyNub-SDK.git           |
+| commit  | 0000000                                                    |
+| systems | keynub-licdongle                                          |
+|---------+------------------------------------------------------------|
